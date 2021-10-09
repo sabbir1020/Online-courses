@@ -1,0 +1,9 @@
+.header-container a:hover {
+    color:black;
+}
+.header-container{
+    background-color:lightgray;
+}
+.coureseName h2:hover{
+ margin-right: 10px;
+}
