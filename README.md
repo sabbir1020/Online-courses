@@ -1,5 +1,10 @@
    # My Website name:
      Online courses
+    ##about
+    At Turitor, we believe everyone should have the
+opportunity to create progress through technology and
+develop the skills of tomorrow. With assessments,
+learning paths and courses authored by industry experts.
    
    # Getting Started with Create React App
 
